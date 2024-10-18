@@ -21,4 +21,4 @@ PRODUCT_BRAND := waydroid
 PRODUCT_DEVICE := waydroid_x86
 PRODUCT_MANUFACTURER := Waydroid
 PRODUCT_NAME := lineage_waydroid_x86
-PRODUCT_MODEL := WayDroid x86 Device
+PRODUCT_MODEL := Lilium on Waydroid (x86)

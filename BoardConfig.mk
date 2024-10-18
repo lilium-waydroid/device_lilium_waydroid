@@ -16,7 +16,7 @@
 
 BOARD_VENDOR := waydroid
 
-DEVICE_PATH := device/waydroid/waydroid
+DEVICE_PATH := device/lilium/waydroid
 
 # Binder
 TARGET_USES_64_BIT_BINDER := true

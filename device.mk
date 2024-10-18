@@ -20,7 +20,6 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_p.mk)
 
 # Inherit some common ROM stuff
 $(call inherit-product-if-exists, vendor/lineage/config/common_full_tablet_wifionly.mk)
-$(call inherit-product-if-exists, vendor/bliss/config/common_full_tablet_wifionly.mk)
 
 # Audio HAL
 PRODUCT_PACKAGES += \

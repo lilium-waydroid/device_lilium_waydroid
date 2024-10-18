@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
--include device/waydroid/waydroid/BoardConfig.mk
+-include device/lilium/waydroid/BoardConfig.mk
 
 # Architecture
 TARGET_ARCH := arm64

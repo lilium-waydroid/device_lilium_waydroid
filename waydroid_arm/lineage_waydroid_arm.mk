@@ -21,4 +21,4 @@ PRODUCT_BRAND := waydroid
 PRODUCT_DEVICE := waydroid_arm
 PRODUCT_MANUFACTURER := Waydroid
 PRODUCT_NAME := lineage_waydroid_arm
-PRODUCT_MODEL := WayDroid arm Device (32-bit only)
+PRODUCT_MODEL := Lilium on Waydroid (arm 32-bit only)
